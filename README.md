@@ -3,7 +3,7 @@
 
 U don't need description For memes!
 
-> # **HELP**
+ # **How to Use**
 `+normie` To post a normie meme
 
 `+dank` To post a dank meme
